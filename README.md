@@ -1,2 +1,2 @@
-# Vending-Machine-
+# Vending-Machine
 Capstone 1
